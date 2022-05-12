@@ -1,0 +1,13 @@
+# doc
+/src/*.xml
+
+# VVVV
+.vl/
+
+# export test
+/out
+
+/src/.vs
+/src/obj
+*deps.json
+*.pdb
